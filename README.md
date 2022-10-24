@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 I'm a bioinformatics engineer at a company in Seattle. 
+Many of my past projects are on [GitLab](https://gitlab.com/users/angvu/groups).
 I like knowledge graphs, knowledge engineering, building good systems, FAIR data, good data visualizations, learning (and applying) new useful stuff.
 
 #### What I'm currently LIFTing (Learning In Free Time)
