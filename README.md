@@ -19,18 +19,8 @@ I'm a bioinformatics engineer at a company in Seattle.
 
 **Many of my past projects are on [GitLab](https://gitlab.com/users/angvu/groups).**
 
-I enjoy knowledge graphs, knowledge engineering, building well-designed systems, FAIR data, pretty _and_ functional data visualizations.
+I'm interested in knowledge graphs, knowledge engineering, well-designed systems, FAIR data, functional _and_ pretty data viz.
 
 #### What I'm currently LIFTing (Learning In Free Time)
 - Rust
-
-#### I'd like to build things with
-- TerminusDB
-
-#### I'd love to learn from you if you're working on/using
-- Open-source healthcare-data-harmonization systems, such as [Google's](https://github.com/GoogleCloudPlatform/healthcare-data-harmonization) 
-
-
-
-
-
+- Clojure
